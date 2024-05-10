@@ -22,10 +22,10 @@ repository               : "aaalqarni/aaalqarni.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Aali Alqarni"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Sheffield"
   employer         : "The University of Sheffield"
   uri              : # URL
   email            : "aaalqarni1@sheffield.ac.uk" 
