@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "YouTube Sentiment Analysis: Performance Model Evaluation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023_02_21
+excerpt: 'In this chapter, we proposed a sentiment analysis model evaluation, based on seven machine learning classifiers, to select the most effective classifiers for analysing YouTube’s comments.'
+date: 2023-02-21
+venue: 'Intelligent Technologies and Robotics Intelligent Technologies and Robotics (R0)'
+paperurl: ' https://doi.org/10.1007/978-3-031-21199-7_19'
+citation: 'Alsanoosy, T., Alqarni, A. (2023). YouTube Sentiment Analysis: Performance Model Evaluation. In: Yafooz, W.M.S., Al-Aqrabi, H., Al-Dhaqm, A., Emara, A. (eds) Kids Cybersecurity Using Computational Intelligence Techniques. Studies in Computational Intelligence, vol 1080. Springer, Cham.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+A few studies have been conducted to sentimentally analyse YouTube comments, especially Kids’ YouTube videos. In this chapter, we proposed a sentiment analysis model evaluation based on seven machine learning classifiers to select the most effective classifiers for analysing YouTube’s comments. We also examined the performance of each classifier using different features. The proposed sentiment analysis model achieved a higher accuracy of 96% when using the support vector machine with the N-gram features.
