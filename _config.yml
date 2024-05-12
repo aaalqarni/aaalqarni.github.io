@@ -24,7 +24,7 @@ author:
   avatar           : "Profile_image.jpeg"
   name             : "Aali Alqarni"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student and Research Associate at the Artificial Intelligence & Robotics Institute at KACST (Riyadh,Saudi Arabia) "
   location         : "Sheffield"
   employer         : "The University of Sheffield"
   uri              : # URL
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "aali-alqarni-28a74031"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
