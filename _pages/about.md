@@ -10,6 +10,7 @@ redirect_from:
 
 
 ======
+
 Aali A. Alqarni is a highly skilled researcher withexpertise in artificial intelligence, machine learning, and natural language processing. He holds a
 Bachelor of Science in Computer Science from Al-Imam Muhammad Ibn Saud Islamic University and
 a Master of Data Science from the University of Melbourne. Currently, Aali works as a Senior Researcher at the National Institute for Artificial Intelligence
@@ -21,16 +22,36 @@ such as the IBM Build Your Bot Competition and Kaggle Competition
 
 Highlighted Projects
 ======
-* Data in Sports (Jan 2023 - Present)(KACST/MIT)
-  morte details are <a href=https://www.linkedin.com/in/aali-alqarni-28a74031/details/projects/" target="_blank">here</a>
-* Saudi Electricity Demand Forecasting (Oct 2022 - Aug 2023) (KACST)
-* Smart Prediction Service (Stream Machine Learning Portal) (Oct 2022 - Apr 2023) (KACST)
-  Stream Machine Learning Portal is a platform that provides real-time, scalable and continuous training of machine learning models. With this platform, you can build and deploy real-time models    that can process data streams, making it ideal for use cases such as fraud detection, predictive maintenance, and customer behaviour analysis.
+### Projects
 
-* Arabic Sarcasm Detection (May 2020 - Jan 2021)
-* Social Data Media Mining (Aug 2015 - May 2017) (KACST)
-* Social Network Analysis (Feb 2011 - Aug 2014) (KACST)
-* Natural Language Processing (TTS) (Nov 2013-Jul 2014) (KACST)
+#### Data in Sports
+- **Duration:** January 2023 - Present
+- **Collaboration:** KACST/MIT
+- **Details:** More details can be found [here](https://cces.mit.edu/projects/sports-collaboration/).
+
+#### Saudi Electricity Demand Forecasting
+- **Duration:** October 2022 - August 2023
+- **Organization:** KACST
+
+#### Smart Prediction Service (Stream Machine Learning Portal)
+- **Duration:** October 2022 - April 2023
+- **Organization:** KACST
+- **Description:** Stream Machine Learning Portal is a platform that provides real-time, scalable, and continuous training of machine learning models. This platform supports building and deploying real-time models that process data streams, ideal for use cases like fraud detection, predictive maintenance, and customer behavior analysis.
+
+#### Arabic Sarcasm Detection
+- **Duration:** May 2020 - January 2021
+
+#### Social Data Media Mining
+- **Duration:** August 2015 - May 2017
+- **Organization:** KACST
+
+#### Social Network Analysis
+- **Duration:** February 2011 - August 2014
+- **Organization:** KACST
+
+#### Natural Language Processing (TTS)
+- **Duration:** November 2013 - July 2014
+- **Organization:** KACST
 
 
 
