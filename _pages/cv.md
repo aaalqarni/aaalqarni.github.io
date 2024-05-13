@@ -35,6 +35,10 @@ January 2022 - Present
 - Member of the Machine Learning group, conducting research and investigating several ML and Deep Learning models.
 - Developed a semantic web tagging tool (TDB) for sentiment labelling of Arabic micro-blogs.
 - Provided consultations and presentations to government agencies.
+- Conducted experiments on different datasets including Twitter and Reddit. The experiments consist of a
+  number of runs to test different pre-processing techniques, classifiers (MNB, SVM,Deep Learning such as
+  LSTM,CNN,BERT) and feature selection methods on an incremented selection of tokens/words.
+  
 
 **Projects:**
 - Smart Prediction Service (October 2022 - Present)
@@ -49,6 +53,9 @@ June 2012 - July 2018
 ## Publications
 
 - Abdulmohsen Al-Thubaity, Aali Alqarni, and Ahmad Alnafessah. "Do Words with Certain Part of Speech Tags Improve the Performance of Arabic Text Classification?" In Proceedings of the 2nd International Conference on Information System and Data Mining (ICISDM ’18), ACM, New York, NY, USA, pages 155-161. [DOI](https://doi.org/10.1145/3206098.3206109).
+-  Alsanoosy, T., Alqarni, A. (2023). YouTube Sentiment Analysis: Performance Model Evaluation. In: Yafooz, W.M.S., Al-Aqrabi, H., Al-Dhaqm, A., Emara, A. (eds) Kids Cybersecurity Using Computational Intelligence Techniques. Studies in Computational Intelligence, vol 1080. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-21199-7_19).
+-  Alnomay, Ibrahim, Abdullah Alfadhly, and Aali Alqarni. "A Comparative Analysis for GPA Prediction of Undergraduate Students Using Machine and Deep Learning." International Journal of Information and Education Technology 14.2 (2024). [URL](https://api.semanticscholar.org/CorpusID:267753031)
+  
 
 ## Skills
 
