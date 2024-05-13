@@ -14,7 +14,7 @@ redirect_from:
 **Contact Information**  
 Email: [alqarni.aali@gmail.com](mailto:alqarni.aali@gmail.com)  
 LinkedIn: [aali-alqarni](https://www.linkedin.com/in/aali-alqarni-28a74031)  
-Phone: +966 568391006
+Phone: +(44) 7436 174364
 
 ## Education
 
