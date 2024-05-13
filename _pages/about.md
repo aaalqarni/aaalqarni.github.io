@@ -14,9 +14,13 @@ redirect_from:
 Aali A. Alqarni is a highly skilled researcher withexpertise in artificial intelligence, machine learning, and natural language processing. He holds a
 Bachelor of Science in Computer Science from Al-Imam Muhammad Ibn Saud Islamic University and
 a Master of Data Science from the University of Melbourne. Currently, Aali works as a Senior Researcher at the National Institute for Artificial Intelligence
-and Robotics in KACST. His focus is on machine learning and deep learning research, as well as the development of semantic web tagging tools. Additionally, he provides
+and Robotics in KACST. 
+
+His focus is on machine learning and deep learning research, as well as the development of semantic web tagging tools. Additionally, he provides
 consultations to government agencies.Throughout his career, Aali has been involved in several high-profile
-projects and has published research papers in international conferences. He is particularly known for his expertise in sentiment analysis and text classi-
+projects and has published research papers in international conferences. 
+
+He is particularly known for his expertise in sentiment analysis and text classi-
 fication, which has led to the development of innovative tools and systems. Aali has also achieved notable rankings and recognition in competitive events
 such as the IBM Build Your Bot Competition and Kaggle Competition
 
