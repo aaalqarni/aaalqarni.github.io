@@ -21,7 +21,7 @@ Motivation is unreliable. Some days you feel strong; other days you feel tired.
 
 Discipline removes this problem.
 
-The rule was simple:
+**The rule was simple**:
 
 - No excuses  
 - No negotiation  
