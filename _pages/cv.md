@@ -82,16 +82,19 @@ HTK, CMUSphinx, WEKA, MOA, Rapidminer, GraphML, Anaconda, NodeXL, Gephi, Tableau
 - **Neural Networks and Deep Learning** (Coursera, Stanford University, November 2019)
 
 ## Honors and Awards
--**FinCausal 2026 (Double Champ)**
-My submission to the [FinCausal 2026 Shared Task](https://www.lllf.uam.es/wordpress/fincausal-26/) on detecting causal statements in financial documents achieved the **highest score among all participating systems** in both evaluation languages (**English and Spanish**).
+
+- **FinCausal 2026 (Double Champ)**,My submission to the [FinCausal 2026 Shared Task](https://www.lllf.uam.es/wordpress/fincausal-26/) on detecting causal statements in financial documents achieved the **highest score among all participating systems** in both evaluation languages (**English and Spanish**).
 
 The system ranked **1st place overall**, outperforming **19 other teams**. This result is particularly notable as this was **my first participation**, while several competing teams had taken part in previous editions.
 
 - Competition page: https://www.lllf.uam.es/wordpress/fincausal-26/
 - Workshop: https://wp.lancs.ac.uk/cfie/fnp-2026/
-- **IBM Build Your Bot Competition**, January 2018: Winner for the best bot capable of meaningful conversation in Arabic.
-
-- **Kaggle Competition 'Who Tweet?'**, September 2019: Top 10 ranking in a large scale Twitter user classification system.
 
 - **Arabicthon Competition**, June 2022: Top 10 ranking in developing a Poetry Game for children.
+- **Kaggle Competition 'Who Tweet?'**, September 2019: Top 10 ranking in a large scale Twitter user classification system.
+- **IBM Build Your Bot Competition**, January 2018: Winner for the best bot capable of meaningful conversation in Arabic.
+
+
+
+
 
